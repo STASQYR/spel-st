@@ -29,12 +29,12 @@ color:
 # Social
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/spel
-  - title: envelope
-    url: mailto:spel@ing.uchile.cl
-  - title: github
-    url: https://github.com/spel-uchile/
+ # - title: twitter
+ #   url: https://twitter.com/spel
+ # - title: envelope
+  #  url: mailto:spel@ing.uchile.cl
+#  - title: github
+  #  url: https://github.com/spel-uchile/
 
 
 # Custom settings
